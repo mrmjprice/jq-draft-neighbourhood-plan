@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# JQ Draft Neighbourhood Plan
 
 You can use the [editor on GitHub](https://github.com/mrmjprice/jq-draft-neighbourhood-plan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
