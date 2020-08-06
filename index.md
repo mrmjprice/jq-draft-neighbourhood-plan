@@ -1,16 +1,15 @@
 # The Jewellery Quarter Neighbourhood Draft Neighbourhood Plan
 Regulation 14 draft written in plain English, published in July 2020
-> ## Preface: accessibility
-> This is an accessible version of the draft neighbourhood plan. It has been created by volunteers. If you feel that this document's accessibility could be improved, or to request a version more suited to your needs, email [email address](email_address).
 
+[Skip contents](#introduction-the-jewellery-quarter-neighbourhood-plan)
 ## Contents
-- [Introduction](#introduction)
-- [Section 1: Supporting and protecting the jewellery and creative industries](#section1)
-- [Section 2: The Jewellery Quarter as a creative, mixed-use quarter](#section2)
-- [Section 3: Moving around the Jewellery Quarter](#section3)
-- [Section 4: The Jewellery Quarter environment](#section4)
+- [Introduction](#introduction-the-jewellery-quarter-neighbourhood-plan-introduction)
+- [Section 1: Supporting and protecting the jewellery and creative industries](section-1-supporting-and-protecting-the-jewellery-and-creative-industries)
+- [Section 2: The Jewellery Quarter as a creative, mixed-use quarter](section-2-the-jewellery-quarter-as-a-creative-mixed-use-quarter)
+- [Section 3: Moving around the Jewellery Quarter](#section-3-moving-around-the-jewellery-quarter)
+- [Section 4: The Jewellery Quarter environment](#section-4-the-jewellery-quarter-environment)
 ___
-## Introduction: The Jewellery Quarter Neighbourhood Plan {#introduction}
+## Introduction: The Jewellery Quarter Neighbourhood Plan
 This Neighbourhood Plan has been written by the community, for the community. The Jewellery Quarter Neighbourhood Plan was initiated by the Jewellery Quarter Development Trust (JQDT) and has been proudly produced by the Jewellery Quarter community. People working in, living in and representing the Jewellery Quarter have created, contributed to and reviewed this Neighbourhood Plan, with help from professionals across Birmingham and beyond.
 The Neighbourhood Plan should be read with Birmingham City Council’s Jewellery Quarter Conservation Area Character Appraisal & Management Plan.
 ### Vision
@@ -31,7 +30,7 @@ To deliver this vision, the Neighbourhood Plan has some BIG IDEAS and lots of li
  - Making better use of the canal and making the canal feel safer to use.
  - Having more public art to really signpost the Jewellery Quarter as a creative area.
 ___
-## Section 1: Supporting and protecting the jewellery and creative industries {#section1}
+## Section 1: Supporting and protecting the jewellery and creative industries
 ### Introduction
 According to official government classification, businesses which “manufacture jewellery and other related articles” are part of the creative industries. The Jewellery Quarter is Birmingham’s original creative quarter and the jewellery industry cluster is joined by many other creative businesses including architecture; crafts; design and designer fashion; film, TV, video, radio and photography; museums, galleries and libraries; and music, performing and visual arts.
 The Neighbourhood Plan wants to nurture this creative quarter and ensure that the jewellery industry can continue to thrive. It has identified where the jewellery industry exists and is creating a special zone so that any development in this area benefits the jewellery and other creative businesses. This zone is called the ‘Economic Character Zone’. 
@@ -53,7 +52,7 @@ This allows the some of the new space to be used for residential (or other suita
 The amount of residential space will be linked to the size of the benefit, and anyone neglecting their building in order to get residential or other uses in will be disqualified from this exemption.
 #### 1(d): To support the next generation of jewellers and jewellery-related businesses, a Jewellery Quarter Creative Incubator – whether a single site or spread across the Jewellery Quarter – will be supported.
 ___
-## Section 2: The Jewellery Quarter as a creative, mixed-use quarter {#section2}
+## Section 2: The Jewellery Quarter as a creative, mixed-use quarter
 ### Introduction
 The Jewellery Quarter is an authentic part of Birmingham because it has an original 250+ year old industrial cluster; it still has a lot of original streets and buildings; and it still has the spirit of enterprise and innovation that made the Jewellery Quarter in the first place. It also has a vibrant mix of businesses and residents, which has been a feature of the area since it was first built. The Neighbourhood Plan wants to continue in this tradition and maintain the area’s authenticity.
 The Jewellery Quarter’s built heritage is famous and draws people to the area. There are over 240 listed buildings in the Jewellery Quarter which get the most protection. The Conservation Area also gives some protection against loss of or damage to these buildings, and the Neighbourhood Plan reinforces the importance of heritage. It also identifies other heritage buildings that should be protected which are not listed and not in the Conservation Area.
@@ -81,7 +80,7 @@ If the major development is residential-led, then 50% of any commercial space sh
  - a new office building next to a factory with noisy extract ventilation should provide acoustic windows, or pay for the factory to install new ventilation kit; or
  - new flats next to a pub with a late beer garden should design it so the residents aren’t affected by noise from the pub.
 ___
-## Section 3: Moving around the Jewellery Quarter {#section3}
+## Section 3: Moving around the Jewellery Quarter
 ### Introduction
 Getting around the Jewellery Quarter can be difficult. Whether it’s people getting lost when roads suddenly bend to the left or right, whether it’s some parts of the area feeling cut-off from the rest, or whether it’s something as simple as a step at the front door when you struggle with steps. By making it easier, we get more people walking and cycling, and that means a Jewellery Quarter that feels safer and is nicer to be in. Evidence shows that people moving around by foot also spend more in the shops, cafes and bars. Evidence also shows that people want more places to sit, enjoy their surroundings and enjoy more greenery.
 This section is about making it easier and more pleasurable to move around the Jeweller Quarter and spend some time here.
@@ -119,7 +118,7 @@ The Neighbourhood Plan supports creating these mini-plans that will help benefit
  - Hockley Hill – Great Hampton St – Constitution Hill.
  - Camden St (north and south) and Camden Drive.
 ____
-## Section 4: The Jewellery Quarter environment {#section4}
+## Section 4: The Jewellery Quarter environment
 ### Introduction
 The ‘feel’ of the Jewellery Quarter is something special. A lot of it is to do with heritage, and a lot is to do with the hustle and bustle of businesses, bars and restaurants, and people visiting. It is also about what the area looks like, noticing the pavements made of blue bricks and that we have a lot of public art around. There are also parts of the Jewellery Quarter that are less nice, even derelict or vacant, but could be brought back. Unfortunately, some have had ugly buildings and unsympathetic developments happen to them. There are also modern demands for greenery and access to nature.
 This section tries to deal with all of that, making the environment in the Jewellery Quarter better and asking developers and architects to do their best work here, just like they used to.
@@ -155,9 +154,12 @@ Even though we are in the city centre and very built-up, we have rare species su
 #### 4(g): There’s a lot of ugly signage and advertising, and there’s some lovely historic signs.
 The Neighbourhood Plan wants to improve modern signage and preserve historic signage. Internally-illuminate signage is not allowed.
 #### 4(h): Acres of car parking detracts from the area, and while parking is needed, it can be done more efficiently.
-#### Alternatives are encouraged, such as more cycle/moped/motorbike parking, underground parking, having permits-to-park rather than a space each, or having a car pool.
+Alternatives are encouraged, such as more cycle/moped/motorbike parking, underground parking, having permits-to-park rather than a space each, or having a car pool.
 #### 4(i): Vacant sites are harmful, especially the Conservation Area parts if the Jewellery Quarter. They should be developed and add to the vibrancy of the area
-#### 4(j): Car parking on vacant sites discourages the development of them, and the Jewellery Quarter needs more space for businesses and residents. Therefore surface car parks should not be permitted.
+#### 4(j): Car parking on vacant sites discourages the development of them, and the Jewellery Quarter needs more space for businesses and residents. Therefore surface car parks should not be permitted.
 ___
 ## How to respond to this draft plan
 A line about how to respond
+
+## Accessibility
+This is an accessible version of the draft neighbourhood plan. It has been created by volunteers. If you feel that this document's accessibility could be improved, or to request a version more suited to your needs, email [email address](email_address).
